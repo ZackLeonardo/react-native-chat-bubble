@@ -1,0 +1,12 @@
+{
+  "name": "@zdy/react-native-chat-bubble",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZackLeonardo <maiz9088@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "react-native-communications": "^2.2.1",
+    "react-native-parsed-text": "0.0.18"
+  }
+}
