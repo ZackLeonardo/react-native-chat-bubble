@@ -5,8 +5,8 @@
   "author": "ZackLeonardo <maiz9088@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.18.1",
+    "moment": "^2.19.2",
     "react-native-communications": "^2.2.1",
-    "react-native-parsed-text": "0.0.18"
+    "react-native-parsed-text": "^0.0.20"
   }
 }
